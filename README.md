@@ -1,6 +1,6 @@
-# OpenAI Chatbot with gpt-3.5-turbo model
+# OpenAI Chatbot with gpt-4-turbo model
 
-This is a AI Mascot for UVU that uses OpenAI's GPT-3.5-turbo language model to generate responses to user's spoken input.
+This is a AI Mascot for UVU that uses OpenAI's GPT-4-turbo language model to generate responses to user's spoken input.
 
 ## Installation
 
@@ -72,5 +72,5 @@ To end the Mascot, say "quit" when prompted for a response.
 ## Acknowledgments
 
 * This chatbot was inspired by the [OpenAI GPT-3 Playground](https://beta.openai.com/playground/)
-* The GPT-3 model is provided by [OpenAI](https://openai.com/)
+* The GPT-4 model is provided by [OpenAI](https://openai.com/)
 * The Text-To-Speech and Speech-To-Text models are provided by [Google](https://console.cloud.google.com)
